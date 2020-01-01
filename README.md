@@ -8,4 +8,4 @@ A simple Editor can adjust the probability of items from Array
 
 ### Demo
 
-![image](https://github.com/zxc30314/UnityTool_Probability/blob/master/%E7%AF%84%E4%BE%8B.gif)
+![image](%E7%AF%84%E4%BE%8B.gif)
