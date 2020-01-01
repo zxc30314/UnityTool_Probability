@@ -1,6 +1,11 @@
 # UnityTool_Probability
-一個簡單的Editor可以自行調整Array裡Item出現的機率
+A simple Editor can adjust the probability of items from Array
 
-須配合odin inspector 使用
+### Prerequisites
+
+* [Sirenix Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+
+
+### Demo
 
 ![image](https://github.com/zxc30314/UnityTool_Probability/blob/master/%E7%AF%84%E4%BE%8B.gif)
