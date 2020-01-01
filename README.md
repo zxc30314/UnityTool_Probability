@@ -2,7 +2,7 @@
 A simple Editor can adjust the probability of items from Array
 
 ### Prerequisites
-
+* Unity 2018.3+
 * [Sirenix Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
 
 
